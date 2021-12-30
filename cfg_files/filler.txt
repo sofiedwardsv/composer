@@ -1,0 +1,114 @@
+/home/PianoStyleEmbedding/score_feat/Bach/01016
+/home/PianoStyleEmbedding/score_feat/Bach/03291
+/home/PianoStyleEmbedding/score_feat/Bach/93235	"0,-1"
+/home/PianoStyleEmbedding/score_feat/Bach/03281
+/home/PianoStyleEmbedding/score_feat/Bach/18991	r
+/home/PianoStyleEmbedding/score_feat/Bach/00756
+/home/PianoStyleEmbedding/score_feat/Bach/438714
+/home/PianoStyleEmbedding/score_feat/Bach/05830
+/home/PianoStyleEmbedding/score_feat/Bach/05828
+/home/PianoStyleEmbedding/score_feat/Bach/06403
+/home/PianoStyleEmbedding/score_feat/Bach/29930
+/home/PianoStyleEmbedding/score_feat/Bach/01020
+/home/PianoStyleEmbedding/score_feat/Bach/00792
+/home/PianoStyleEmbedding/score_feat/Bach/02200
+/home/PianoStyleEmbedding/score_feat/Bach/02195
+/home/PianoStyleEmbedding/score_feat/Beethoven/472524
+/home/PianoStyleEmbedding/score_feat/Beethoven/217743	"0,1 "
+/home/PianoStyleEmbedding/score_feat/Beethoven/53053
+/home/PianoStyleEmbedding/score_feat/Beethoven/318756
+/home/PianoStyleEmbedding/score_feat/Beethoven/01412
+/home/PianoStyleEmbedding/score_feat/Beethoven/419637
+/home/PianoStyleEmbedding/score_feat/Beethoven/217738	"0,1,2,3"
+/home/PianoStyleEmbedding/score_feat/Beethoven/318755
+/home/PianoStyleEmbedding/score_feat/Beethoven/51429	r
+/home/PianoStyleEmbedding/score_feat/Beethoven/318760
+/home/PianoStyleEmbedding/score_feat/Beethoven/472507
+/home/PianoStyleEmbedding/score_feat/Beethoven/472509
+/home/PianoStyleEmbedding/score_feat/Beethoven/495977	0
+/home/PianoStyleEmbedding/score_feat/Beethoven/05148
+/home/PianoStyleEmbedding/score_feat/Beethoven/05147
+/home/PianoStyleEmbedding/score_feat/Chopin/259999	r
+/home/PianoStyleEmbedding/score_feat/Chopin/09990	0
+/home/PianoStyleEmbedding/score_feat/Chopin/112338
+/home/PianoStyleEmbedding/score_feat/Chopin/444567	"0,-1"
+/home/PianoStyleEmbedding/score_feat/Chopin/112343
+/home/PianoStyleEmbedding/score_feat/Chopin/410928	"0,1,2,3,16,17,18,19"
+/home/PianoStyleEmbedding/score_feat/Chopin/399450	"0,1,-1"
+/home/PianoStyleEmbedding/score_feat/Chopin/102121
+/home/PianoStyleEmbedding/score_feat/Chopin/112599	r
+/home/PianoStyleEmbedding/score_feat/Chopin/447371	"0,1"
+/home/PianoStyleEmbedding/score_feat/Chopin/399778	"0,1,-1"
+/home/PianoStyleEmbedding/score_feat/Chopin/444566	"0,-1"
+/home/PianoStyleEmbedding/score_feat/Chopin/135536	
+/home/PianoStyleEmbedding/score_feat/Chopin/399771	"0,1,2,9,10,11,12,13,14,15"
+/home/PianoStyleEmbedding/score_feat/Chopin/167542	r
+/home/PianoStyleEmbedding/score_feat/Mozart/56702
+/home/PianoStyleEmbedding/score_feat/Mozart/86720
+/home/PianoStyleEmbedding/score_feat/Mozart/89748
+/home/PianoStyleEmbedding/score_feat/Mozart/474232
+/home/PianoStyleEmbedding/score_feat/Mozart/86721
+/home/PianoStyleEmbedding/score_feat/Mozart/472515	8
+/home/PianoStyleEmbedding/score_feat/Mozart/474246
+/home/PianoStyleEmbedding/score_feat/Mozart/86719
+/home/PianoStyleEmbedding/score_feat/Mozart/20432	"0,1,2"
+/home/PianoStyleEmbedding/score_feat/Mozart/70215
+/home/PianoStyleEmbedding/score_feat/Mozart/70207
+/home/PianoStyleEmbedding/score_feat/Mozart/86731
+/home/PianoStyleEmbedding/score_feat/Mozart/70216
+/home/PianoStyleEmbedding/score_feat/Schubert/03141
+/home/PianoStyleEmbedding/score_feat/Schubert/08919
+/home/PianoStyleEmbedding/score_feat/Schubert/115013
+/home/PianoStyleEmbedding/score_feat/Schubert/08916
+/home/PianoStyleEmbedding/score_feat/Schubert/38560
+/home/PianoStyleEmbedding/score_feat/Schubert/00348
+/home/PianoStyleEmbedding/score_feat/Schubert/03131
+/home/PianoStyleEmbedding/score_feat/Schubert/00350
+/home/PianoStyleEmbedding/score_feat/Schubert/08953
+/home/PianoStyleEmbedding/score_feat/Schubert/16688
+/home/PianoStyleEmbedding/score_feat/Schubert/03152
+/home/PianoStyleEmbedding/score_feat/Schubert/03122
+/home/PianoStyleEmbedding/score_feat/Schubert/418111	r
+/home/PianoStyleEmbedding/score_feat/Schubert/03133
+/home/PianoStyleEmbedding/score_feat/Schumann/422949	"0,1,2,-1"
+/home/PianoStyleEmbedding/score_feat/Schumann/78923	"0,1"
+/home/PianoStyleEmbedding/score_feat/Schumann/279688
+/home/PianoStyleEmbedding/score_feat/Schumann/456369	"0,1"
+/home/PianoStyleEmbedding/score_feat/Schumann/00406
+/home/PianoStyleEmbedding/score_feat/Schumann/54618
+/home/PianoStyleEmbedding/score_feat/Schumann/389322	r
+/home/PianoStyleEmbedding/score_feat/Schumann/289903
+/home/PianoStyleEmbedding/score_feat/Schumann/104425
+/home/PianoStyleEmbedding/score_feat/Schumann/422680	"0,1,-1"
+/home/PianoStyleEmbedding/score_feat/Schumann/271041
+/home/PianoStyleEmbedding/score_feat/Schumann/336377	r
+/home/PianoStyleEmbedding/score_feat/Schumann/55516	"0,1"
+/home/PianoStyleEmbedding/score_feat/Schumann/289727	0
+/home/PianoStyleEmbedding/score_feat/Haydn/471895
+/home/PianoStyleEmbedding/score_feat/Haydn/472023
+/home/PianoStyleEmbedding/score_feat/Haydn/475067	rl
+/home/PianoStyleEmbedding/score_feat/Haydn/471943
+/home/PianoStyleEmbedding/score_feat/Haydn/471864	
+/home/PianoStyleEmbedding/score_feat/Haydn/471972
+/home/PianoStyleEmbedding/score_feat/Haydn/472291
+/home/PianoStyleEmbedding/score_feat/Haydn/475074	rl
+/home/PianoStyleEmbedding/score_feat/Haydn/471973
+/home/PianoStyleEmbedding/score_feat/Haydn/471951
+/home/PianoStyleEmbedding/score_feat/Haydn/471968
+/home/PianoStyleEmbedding/score_feat/Haydn/471511
+/home/PianoStyleEmbedding/score_feat/Haydn/471901
+/home/PianoStyleEmbedding/score_feat/Haydn/472020
+/home/PianoStyleEmbedding/score_feat/Haydn/475019	rl
+/home/PianoStyleEmbedding/score_feat/Liszt/14348	0
+/home/PianoStyleEmbedding/score_feat/Liszt/05826
+/home/PianoStyleEmbedding/score_feat/Liszt/04469
+/home/PianoStyleEmbedding/score_feat/Liszt/13340	0
+/home/PianoStyleEmbedding/score_feat/Liszt/06986	0
+/home/PianoStyleEmbedding/score_feat/Liszt/56216
+/home/PianoStyleEmbedding/score_feat/Liszt/13619	0
+/home/PianoStyleEmbedding/score_feat/Liszt/414487	"0,1"
+/home/PianoStyleEmbedding/score_feat/Liszt/86182	r
+/home/PianoStyleEmbedding/score_feat/Liszt/03088
+/home/PianoStyleEmbedding/score_feat/Liszt/06417
+/home/PianoStyleEmbedding/score_feat/Liszt/13259	0
+/home/PianoStyleEmbedding/score_feat/Liszt/107650	
